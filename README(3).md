@@ -81,6 +81,34 @@ The application uses MySQL to store expense-related data. Configure the database
 - Charts and analytics
 - Export expenses to PDF/CSV
 
-## Author
+## 📸 Screenshots
 
-**Tejas Gandhare**
+### 🏠 Home Page
+<p align="center">
+  <img src="./screenshots/home.png" alt="Home Page" width="800">
+</p>
+
+### 🔐 Login Page
+<p align="center">
+  <img src="./screenshots/login.png" alt="Login Page" width="800">
+</p>
+
+### 📊 Dashboard
+<p align="center">
+  <img src="./screenshots/dashboard.png" alt="Dashboard" width="800">
+</p>
+
+### 💰 Transactions
+<p align="center">
+  <img src="./screenshots/transaction.png" alt="Transactions" width="800">
+</p>
+
+### 🗄️ Database
+<p align="center">
+  <img src="./screenshots/database.png" alt="Database" width="800">
+</p>
+
+### ☁️ AWS EC2 Instance
+<p align="center">
+  <img src="./screenshots/instance.png" alt="AWS EC2 Instance" width="800">
+</p>
